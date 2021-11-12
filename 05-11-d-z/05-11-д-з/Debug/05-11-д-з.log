@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\05-11-д-з\05-11-д-з\Source.cpp(51,7): warning C4101: buf_sumb: неиспользованная локальная переменная
+  05-11-д-з.vcxproj -> C:\Users\User\Desktop\05-11-д-з\Debug\05-11-д-з.exe
